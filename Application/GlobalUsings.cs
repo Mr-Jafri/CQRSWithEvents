@@ -1,0 +1,11 @@
+﻿global using Application.CommandDispatcher;
+global using Application.Profile;
+global using Application.Requests.Commands;
+global using Application.Requests.Queries;
+global using Domain.Entities;
+global using Domain.Events;
+global using Domain.Interfaces;
+global using Infrastructure.InMemoryStore;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using System.Reflection;
