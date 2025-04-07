@@ -22,3 +22,5 @@ This project demonstrates a domain-driven design approach that does not use exte
 - Docker Containerization
 - Fluent Migrations
 - Broker Service (RabbitMQ)
+- Unit Testing
+- Functional Testing
